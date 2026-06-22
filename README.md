@@ -1,4 +1,4 @@
-# Project Name
+# Commit Message Linter
 
 ## Goal
 
